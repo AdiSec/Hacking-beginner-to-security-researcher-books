@@ -17,3 +17,7 @@ Best books to understand the blockchain:- https://drive.google.com/drive/folders
 best books for cryptography:- https://drive.google.com/drive/folders/1vvRmVSUGVxMCl0qt64e27b0lgR2hePao?usp=sharing
 
 Best books for Reverse engineering:- https://drive.google.com/drive/folders/1EPL4zlHyfgEAr0veKgeAB-mOeZv1DdVF?usp=sharing
+
+Best books for Hardware hacking:- https://drive.google.com/drive/folders/1gT8I7yNH80eoZQZHQIpowcemIc-IQV2n?usp=sharing
+
+Best books for Forensics:- https://drive.google.com/drive/folders/1rw9Eh7l4q70xbzdnMV6CBQNIBQT8pQFl?usp=sharing
